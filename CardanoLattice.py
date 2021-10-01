@@ -111,5 +111,3 @@ class CardanoLattice(object):
                 key = tmp
                 all_iteration += 1
         print(all_iteration)
-
-#вар 6

@@ -1,3 +1,8 @@
+# 23.09.2021
+# Решётка Кардано
+# Работу выполнил: Грубов Михаил Дмитриевич
+
+
 from CardanoLattice import CardanoLattice
 
 
